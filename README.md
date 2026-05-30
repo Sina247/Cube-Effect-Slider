@@ -12,3 +12,8 @@ An eye catching **Cube Effect Slider** built with **HTML**, **CSS** and **JavaSc
 - 📱 **Responsive Design**: Perfectly adapts, looks great on all screen sizes and devices.  
 - ⚡ **Lightweight and Efficient**: Minimal code footprint for fast loading and smooth performance.  
 - 🖱️ **Engaging UX**: Adds a dynamic and modern flair that captivates users effortlessly.  
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="932" alt="Screenshot 2026-05-30 101500" src="https://github.com/user-attachments/assets/e8401f46-215c-41c5-8cbb-fe4afab38b99" />
